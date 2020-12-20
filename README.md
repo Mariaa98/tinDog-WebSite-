@@ -1,2 +1,1 @@
-# tinDog-WebSite 
- Website Developments Project
+TinDog Starting Files
